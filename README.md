@@ -3,7 +3,7 @@ A simple C++ program to validate credit card numbers using the Luhn Algorithm
 
 **Description**
 
-A simple C++ program to validate credit card numbers using the Luhn Algorithm. The project checks whether a given credit card number is valid based on the checksum logic widely used by major card providers.
+A simple C++ program to validate credit card numbers using the Luhn Algorithm. The project checks whether a given credit card number is valid based on the checksum logic widely used by major card providers(visa,ATM card,etc).
 This project is ideal for beginners learning C++ and interested in basic algorithms, input validation, and number handling.
 
 **Features**
