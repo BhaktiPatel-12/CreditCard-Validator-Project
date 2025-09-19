@@ -8,15 +8,15 @@ This project is ideal for beginners learning C++ and interested in basic algorit
 
 **Features**
 
--Input and validate credit card numbers
--Implementation of the Luhn algorithm
--Basic error handling for invalid inputs
--Simple command-line interface
+-Input and validate credit card numbers<br>
+-Implementation of the Luhn algorithm<br>
+-Basic error handling for invalid inputs<br>
+-Simple command-line interface<br>
 
 **Algorithm Used -> Luhn Algorithm:**
 
--From the rightmost digit, double every second digit.
--If the result is greater than 9, subtract 9.
--Sum all the digits.
--If the total modulo 10 is 0, the card is valid.
+-From the rightmost digit, double every second digit.<br>
+-If the result is greater than 9, subtract 9.<br>
+-Sum all the digits.<br>
+-If the total modulo 10 is 0, the card is valid.<br>
 
